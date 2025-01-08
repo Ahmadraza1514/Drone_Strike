@@ -8,7 +8,8 @@
 ---
 ## Demo
 ![Video](https://github.com/user-attachments/assets/269875de-e99e-4230-a918-2e0eb2a5dd2f)
----
+*Demo Video of project* 
+
 
 ## Features  
 ### 1. Tactical Drone Command  
